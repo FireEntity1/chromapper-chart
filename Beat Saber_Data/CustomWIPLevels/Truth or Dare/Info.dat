@@ -2,15 +2,15 @@
   "_version" : "2.1.0",
   "_songName" : "Truth or Dare",
   "_songSubName" : "(Nightcore Ver.)",
-  "_songAuthorName" : "",
+  "_songAuthorName" : "Emily Osment",
   "_levelAuthorName" : "FireEntity",
   "_beatsPerMinute" : 160.88,
-  "_previewStartTime" : 12,
-  "_previewDuration" : 10,
+  "_previewStartTime" : 35,
+  "_previewDuration" : 14,
   "_songTimeOffset" : 0,
   "_shuffle" : 0,
   "_shufflePeriod" : 0.5,
-  "_coverImageFilename" : "cover.png",
+  "_coverImageFilename" : "icon.png",
   "_songFilename" : "Truth or Dare - Nightcore.ogg",
   "_environmentName" : "TimbalandEnvironment",
   "_allDirectionsEnvironmentName" : "GlassDesertEnvironment",
@@ -35,7 +35,7 @@
           "_difficultyRank" : 9,
           "_beatmapFilename" : "ExpertPlusStandard.dat",
           "_noteJumpMovementSpeed" : 18,
-          "_noteJumpStartBeatOffset" : -0.808,
+          "_noteJumpStartBeatOffset" : -0.659,
           "_beatmapColorSchemeIdx" : 0,
           "_environmentNameIdx" : 0,
           "_customData" : {
@@ -47,7 +47,8 @@
             "_envColorLeft" : {"r":1,"g":0.64,"b":0.498},
             "_envColorRight" : {"r":0.523,"g":0.842,"b":0.835},
             "_envColorLeftBoost" : {"r":1,"g":0.436,"b":0.209},
-            "_envColorRightBoost" : {"r":0.223,"g":0.957,"b":0.948}
+            "_envColorRightBoost" : {"r":0.223,"g":0.957,"b":0.948},
+            "_difficultyLabel" : "Talk Talk"
           }
         }
       ]
