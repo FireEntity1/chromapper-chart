@@ -12,7 +12,7 @@
   "_shufflePeriod" : 0.5,
   "_coverImageFilename" : "cover.png",
   "_songFilename" : "Truth or Dare - Nightcore.ogg",
-  "_environmentName" : "DefaultEnvironment",
+  "_environmentName" : "TimbalandEnvironment",
   "_allDirectionsEnvironmentName" : "GlassDesertEnvironment",
   "_environmentNames" : [
   ],
@@ -37,7 +37,18 @@
           "_noteJumpMovementSpeed" : 18,
           "_noteJumpStartBeatOffset" : -0.808,
           "_beatmapColorSchemeIdx" : 0,
-          "_environmentNameIdx" : 0
+          "_environmentNameIdx" : 0,
+          "_customData" : {
+            "_suggestions" : [
+              "Chroma"
+            ],
+            "_colorLeft" : {"r":0.974,"g":0.099,"b":0.549},
+            "_colorRight" : {"r":0.25,"g":0.625,"b":1},
+            "_envColorLeft" : {"r":1,"g":0.64,"b":0.498},
+            "_envColorRight" : {"r":0.523,"g":0.842,"b":0.835},
+            "_envColorLeftBoost" : {"r":1,"g":0.436,"b":0.209},
+            "_envColorRightBoost" : {"r":0.223,"g":0.957,"b":0.948}
+          }
         }
       ]
     }
